@@ -1,4 +1,4 @@
-## **Step One: Simplifying Expressions**
+### Step One: Simplifying Expressions
 
 Simplify the following big O expressions as much as possible:
 
@@ -22,7 +22,7 @@ Simplify the following big O expressions as much as possible:
 
 10. O(n + n^(1/2) + n^2 + n * log(n)^10) => O(n^2) grows quadratically.
 
-## **Step Two: Calculating Time Complexity**
+## Step Two: Calculating Time Complexity
 
 Determine the time complexities for each of the following functions. If you’re not sure what these functions do, copy and paste them into the console and experiment with different inputs!
 
@@ -107,7 +107,7 @@ function vowelCount(str) {
 
 Time Complexity: O(n) linear growth
 
-## **Part 3 - short answer**
+## Part 3 - short answer
 
 Answer the following questions
 
